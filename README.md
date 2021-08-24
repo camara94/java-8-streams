@@ -1,0 +1,2 @@
+# java-8-streams
+Cette nouvelle API offre la possibilité de simplifier l’écriture, d’améliorer la performance ainsi d’augmenter la lisibilité d’un certain nombre de code. Nous allons essayer ici de voir comment les utiliser et dans de voir dans quels cas l’utilisation de cette API est utile. Dans un second article, nous nous interresserons aux performances des stream et mode « normal » et en mode « parallel ».
